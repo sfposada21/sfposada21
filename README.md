@@ -5,8 +5,7 @@ Mi nombre es Stiven Posada y soy de Colombia
 * Actualmente soy Software developer
 * Estoy Comenzando con Git
 
- 
-## Habilidades
+ ## Habilidades
 ***
 * Python
 * Javascript
@@ -14,7 +13,11 @@ Mi nombre es Stiven Posada y soy de Colombia
 * HtML
 * CSS
 
-
 ### Contacto
 
 sf.posada21@gmail.com
+
+
+### Herramientas
+
+Proximamente...
