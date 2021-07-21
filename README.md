@@ -20,4 +20,5 @@ sf.posada21@gmail.com
 
 ### Herramientas
 
+![alt text](https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png)
 Proximamente...
