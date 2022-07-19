@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Stiven</h3>
 <h4 >A passionate Electronic Engineer and Software Developer from Colombia</h4>
 
-- 🔭 I’m working on **OLIMPIA IT**
+- 🔭 I’m working on **DVP**
 
 - 🌱 I’m currently learning **MEAN STACK**
 
